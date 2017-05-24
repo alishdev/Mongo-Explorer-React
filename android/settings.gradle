@@ -1,0 +1,3 @@
+rootProject.name = 'MongoExplorerReact'
+
+include ':app'

@@ -24,7 +24,7 @@ export default class HomePage extends Component {
     }
 
     static navigationOptions = {
-      title: 'Mongo Explorer',
+      title: 'Home',
       headerTintColor: 'green'
     };
 
